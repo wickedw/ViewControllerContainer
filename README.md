@@ -21,3 +21,7 @@ The example shows how these containers allow seperation of code and flexible vie
 
 Hope this helps someone getting started with all this.
 
+V0.1 NOTES
+==========
+
+Just tested on device, still an issue with crashing on quick changes, will look into it when get chance.
