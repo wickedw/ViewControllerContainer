@@ -1,7 +1,9 @@
-Basic Xamarin / Monotouch ViewController Container Example
+Basic Xamarin / Monotouch Custom ViewController Container Example
 ========================================================================================
 
 Containers contents controlled via UISegmentedControl.
+
+Based on - http://developer.apple.com/library/ios/#featuredarticles/ViewControllerPGforiPhoneOS/CreatingCustomContainerViewControllers/CreatingCustomContainerViewControllers.html
 
 I got to a point within a project whereby I wanted to display 3 different "Screens" of information based on a user selection.  
 
