@@ -1,4 +1,6 @@
-ViewController Containers controlled via UISegmentedControl
+-----------------------------------------------------------------------------------------
+Xamarin / Monotouch ViewController Container Example (controlled via UISegmentedControl)
+-----------------------------------------------------------------------------------------
 
 I got to a point within a project whereby I wanted to display 3 different "Screens" of information based on a user selection.  
 
